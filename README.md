@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-for script creation
+Creating scripts for the project
