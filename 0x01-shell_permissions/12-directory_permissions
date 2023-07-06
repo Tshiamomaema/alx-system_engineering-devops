@@ -1,2 +1,2 @@
 #!/bin/bash
-(umask 137 && mkdir my_dir)
+(mkdir my_dir $(chmod 751 my_dir))
